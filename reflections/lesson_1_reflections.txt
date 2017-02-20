@@ -1,0 +1,11 @@
+What's cool about diff - you see the useful stuff.. get what you want quickly..
+
+Nice..
+
+Remember to keep your lines short so you benefit from the power of GIT - Trevor would do well to remember dis
+
+How could having easy access to version history make you a more efficient programmer?
+
+You don't care about saving each version so you can backtrack - you can easily fetch older versions, so
+you can focus on the coding thing.. that's how..
+
