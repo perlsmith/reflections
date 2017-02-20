@@ -2,3 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Nothing besides a .git directory created. This tells GIT to prepare for version control..
 
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+ 
+ staging area tells GIT what to pay attention to. Working area is a playground where one can make
+ changes. The working are contains a snapshot of a portion of the working directory at a point
+ in time..
+ 
+ 
