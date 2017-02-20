@@ -14,3 +14,29 @@ What are the pros and cons of manually choosing when to commit? Like in Git, vs 
 cons - you might forget to commit and end up with a too-big commit
 
 pro - you have control of the size of edits in the different versions..
+
+Why do you think some version control systems , like Git, allow saving multiple files in one commit, while others,
+like google docs, treat each file differently..
+
+Git is targeted at programmers - source code text files, while Google docs are for content files.. information
+and presentation..
+
+How to use git log and git diff to view history?
+
+git log gives you access to the IDs and the commit messages - that you can then use - if you're interested in 
+what changed with a particular commit, then do git diff ID_of_that_commit ID_of_previous_commit
+
+git checkout is uber cool..  detached HEAD state..
+
+how might version control make you more confident to make changes that could break something?
+
+coz you know you can always go back to a working version 
+
+How to go back to the actual HeAD without knowing the ID?
+
+What do I want to do with GIT? 
+
+I want to build a scalable web app on the Google Cloud and get $$! :)
+
+fa4c6bad - HEAD of pappu pakia
+
