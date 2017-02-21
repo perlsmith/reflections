@@ -9,4 +9,28 @@ How is the staging area different from the working directory and the repository?
  changes. The working are contains a snapshot of a portion of the working directory at a point
  in time..
  
+ Remember to formulate a commit meme as an operation that is being performed on the repository
+ 
+ How can you use the staging area to make sure you have one commit per logical change?
+ 
+ If you do a diff --staged, then you should only see one file listed.. 
+ 
+ What are some situations when branches would be helpful in keeping your history
+ organized? How would branches help?
+ 
+ When you want to go off on a tangent and make drastic changes..
+ 
+ How do the diagrams help you visualize the branch structure?
+ 
+ Concept diagrams help you organize info in your mind
+ 
+ Git show was the big takeaway
+ 
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ 
+ all changes in both branches are combined.. merged.. all features are now available
+ 
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ 
+ There are obvious cases when you can merge automatically.. automation rocks..
  
