@@ -30,7 +30,7 @@ How is the staging area different from the working directory and the repository?
  
  all changes in both branches are combined.. merged.. all features are now available
  
- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ What are the pros and cons of Git's automatic merging vs. always doing merges manually?
  
  There are obvious cases when you can merge automatically.. automation rocks..
  
